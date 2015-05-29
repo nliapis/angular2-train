@@ -1,2 +1,1 @@
-# angular-2
-# angular2-train
+# Testing angular2 with yeoman generator
